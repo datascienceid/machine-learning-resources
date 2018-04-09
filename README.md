@@ -4,20 +4,36 @@ A curated list of awesome machine learning frameworks, libraries, courses, books
 ## Table of Contents
 * **[Free Books](#free-books)**
 
-* **[Courses]**
+* **[Courses](#courses)**
 
-* **[Videos and Lectures]**
+* **[Videos and Lectures](#videos-and-lecturers)**
 
-* **[Papers]**
+* **[Papers](papers)**
 
-* **[Tutorials]**
+* **[Tutorials](tutorials)**
 
-* **[Sample Code]**
+* **[Sample Code](sample-code)**
 
-* **[Datasets]**
+* **[Datasets](datasets)**
 
-* **[Conferences]**
+* **[Conferences](conferences)**
 
-* **[Librares]**
+* **[Librares](libraries)**
 
 ### Free Books
+
+### Courses
+
+### Videos and Lectures
+
+### Papers
+
+### Tutorials
+
+### Sample Code
+
+### Datasets
+
+### Conferences
+
+### Libraries
