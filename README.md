@@ -2,7 +2,7 @@
 A curated list of awesome machine learning frameworks, libraries, courses, books and many more.
 
 ## Table of Contents
-* **[Free Books] (#free-books)**
+* **[Free Books](#free-books)**
 
 * **[Courses]**
 
