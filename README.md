@@ -21,28 +21,28 @@ A curated list of awesome machine learning frameworks, libraries, courses, books
 * **[Librares](libraries)**
 
 ### Free Books
-To-do
+1. To-do
 
 ### Courses
-To-do
+1. To-do
 
 ### Videos and Lectures
-To-do
+1. To-do
 
 ### Papers
-To-do
+1. To-do
 
 ### Tutorials
-To-do
+1. To-do
 
 ### Sample Code
-To-do
+1. To-do
 
 ### Datasets
-To-do
+1. To-do
 
 ### Conferences
-To-do
+1. To-do
 
 ### Libraries
-To-do
+1. To-do
