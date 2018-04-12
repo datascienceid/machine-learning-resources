@@ -1,4 +1,4 @@
-# machine-learning-resources
+# Machine Learning Resources
 A curated list of awesome machine learning frameworks, libraries, courses, books and many more.
 
 ## Table of Contents
@@ -21,7 +21,7 @@ A curated list of awesome machine learning frameworks, libraries, courses, books
 * **[Librares](libraries)**
 
 ### Free Books
-1. To-do
+1. [Python Data Science Handbook - Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 ### Courses
 1. To-do
