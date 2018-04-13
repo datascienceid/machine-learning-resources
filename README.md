@@ -18,7 +18,7 @@ A curated list of awesome machine learning frameworks, libraries, courses, books
 
 * **[Conferences](conferences)**
 
-* **[Librares](libraries)**
+* **[Libraries](libraries)**
 
 ### Free Books
 1. [Python Data Science Handbook - Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
