@@ -32,7 +32,7 @@ A curated list of awesome machine learning frameworks, libraries, courses, books
 2. [Machine Learning](https://www.coursera.org/learn/machine-learning)
 3. [Machine Learning with Big Data](https://www.coursera.org/learn/big-data-machine-learning)
 4. [Applied Machine Learning](https://courses.edx.org/courses/course-v1:Microsoft+DAT203.3x+2T2017/course/)
-5. [Machine Learning for Data Science and Analytics]
+5. [Machine Learning for Data Science and Analytics](https://www.edx.org/course/machine-learning-data-science-analytics-columbiax-ds102x-1)
 
 ### Videos and Lectures
 1. [Machine Learning by Andrew Ng](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=RDQMwjiIGVB03Eg)
