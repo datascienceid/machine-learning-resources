@@ -42,7 +42,11 @@ A curated list of awesome machine learning frameworks, libraries, courses, books
 5. [Gaussian Mixture Models - The Math of Intelligence (Week 7)](https://www.youtube.com/watch?v=JNlEIEwe-Cg&t=945s)
 
 ### Papers
-1. To-do
+1. [Local algorithms for interactive clustering](www.jmlr.org/papers/volume18/15-085/15-085.pdf)
+2. [On Perturbed Proximal Gradient Algorithms](http://www.jmlr.org/papers/volume18/15-038/15-038.pdf)
+3. [Imbalanced-learn: A Python Toolbox to Tackle the Curse of Imbalanced Datasets in Machine Learning](http://www.jmlr.org/papers/volume18/16-365/16-365.pdf)
+4. [Nearly optimal classification for semimetrics](http://www.jmlr.org/papers/volume18/16-217/16-217.pdf)
+5. [A Bayesian Framework for Learning Rule Sets for Interpretable Classification](http://www.jmlr.org/papers/volume18/16-003/16-003.pdf)
 
 ### Tutorials
 1. [A Simple Approach to Predicting Customer Churn](http://blog.keyrus.co.uk/a_simple_approach_to_predicting_customer_churn.html)
@@ -59,7 +63,11 @@ A curated list of awesome machine learning frameworks, libraries, courses, books
 5. [Practical Data Science Cookbook](https://github.com/PacktPublishing/Practical-Data-Science-Cookbook-Second-Edition)
 
 ### Datasets
-1. To-do
+1. [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
+2. [Kaggle Datasets](https://www.kaggle.com/datasets)
+3. [IMDb Datasets](https://www.imdb.com/interfaces/)
+4. [Machine Learning Datasets Repository](http://mldata.org/)
+5. [Caption Contest Data](https://github.com/nextml/caption-contest-data)
 
 ### Conferences (Mostly in Indonesia)
 1. [Seminar Nasional Sistem Informasi](http://sesindo.org/)
