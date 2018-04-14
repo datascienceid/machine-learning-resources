@@ -82,3 +82,6 @@ A curated list of awesome machine learning frameworks, libraries, courses, books
 3. [XGBoost](https://github.com/dmlc/xgboost)
 4. [spaCy](https://github.com/explosion/spaCy)
 5. [CNTK](https://github.com/Microsoft/CNTK)
+
+## Contributing
+Jika anda ingin berkontribusi dalam github ini, sangat disarankan untuk `Pull Request` namun dengan resource berbahasa indonesia.
