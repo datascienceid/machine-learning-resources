@@ -87,4 +87,7 @@ Star and Fork our repository for latest update.
 5. [CNTK](https://github.com/Microsoft/CNTK)
 
 ## Contributing
-Jika anda ingin berkontribusi dalam github ini, sangat disarankan untuk `Pull Request` namun dengan resource berbahasa indonesia.
+Jika ingin berkontribusi dalam github ini, sangat disarankan untuk `Pull Request` namun dengan resource berbahasa indonesia.
+
+## Frequently Ask Question (FAQ)
+FAQ menjawab pertanyaan pertanyaan umum terkait repository ini mulai dari _naming convention_, pertanyaan dasar hingga pertanyaan lanjut.
