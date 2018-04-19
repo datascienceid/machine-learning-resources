@@ -62,8 +62,8 @@ Star and Fork our repository for latest update.
 3. [Introducing Data Science](https://www.manning.com/books/introducing-data-science)
 4. [Machine Learning with R](https://github.com/dataspelunking/MLwR)
 5. [Practical Data Science Cookbook](https://github.com/PacktPublishing/Practical-Data-Science-Cookbook-Second-Edition)
-6. [Data Science with Python (Bahasa Indonesia) - Doni Rubiagatra](https://github.com/rubiagatra/data-science-with-python)
-7. [Deep Learning with PyTorch (Bahasa Indonesia) - Doni Rubiagatra](https://github.com/rubiagatra/deep-learning-with-pytorch)
+6. [Data Science with Python (Bahasa Indonesia)](https://github.com/rubiagatra/data-science-with-python)
+7. [Deep Learning with PyTorch (Bahasa Indonesia)](https://github.com/rubiagatra/deep-learning-with-pytorch)
  
 ### Datasets
 1. [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
