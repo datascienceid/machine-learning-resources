@@ -2,6 +2,8 @@
 A curated list of awesome machine learning frameworks, libraries, courses, books and many more.  
 Star and Fork our repository for latest update.
 
+kumpulan sumber ini untuk mempermudah untuk mempelajari machine learning, dengan bahasa indonesia yang mudah dipahami, selain itu juga terdapat dataset yang bisa dipraktekan dan ada conference yang bisa dipublish bagi yang melakukan penelitian dibidang ini.
+
 ## Table of Contents
 * **[Free Books](#free-books)**
 
