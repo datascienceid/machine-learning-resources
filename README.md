@@ -9,7 +9,7 @@ kumpulan sumber ini untuk mempermudah untuk mempelajari machine learning, dengan
 
 * **[Courses](#courses)**
 
-* **[Videos and Lectures](#videos-and-lecturers)**
+* **[Videos and Lectures](#videos-and-lectures)**
 
 * **[Papers](#papers)**
 
