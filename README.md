@@ -19,7 +19,7 @@ kumpulan sumber ini untuk mempermudah untuk mempelajari machine learning, dengan
 
 * **[Datasets](#datasets)**
 
-* **[Conferences](#conferences)**
+* **[Conferences](#conferences-mostly-in-indonesia)**
 
 * **[Libraries](#libraries)**
 
