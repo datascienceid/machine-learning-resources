@@ -45,7 +45,7 @@ kumpulan sumber ini untuk mempermudah untuk mempelajari machine learning, dengan
 5. [Gaussian Mixture Models - The Math of Intelligence (Week 7)](https://www.youtube.com/watch?v=JNlEIEwe-Cg&t=945s)
 
 ### Papers
-1. [Local algorithms for interactive clustering](www.jmlr.org/papers/volume18/15-085/15-085.pdf)
+1. [Local algorithms for interactive clustering](http://jmlr.org/papers/volume18/15-085/15-085.pdf)
 2. [On Perturbed Proximal Gradient Algorithms](http://www.jmlr.org/papers/volume18/15-038/15-038.pdf)
 3. [Imbalanced-learn: A Python Toolbox to Tackle the Curse of Imbalanced Datasets in Machine Learning](http://www.jmlr.org/papers/volume18/16-365/16-365.pdf)
 4. [Nearly optimal classification for semimetrics](http://www.jmlr.org/papers/volume18/16-217/16-217.pdf)
