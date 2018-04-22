@@ -2,6 +2,8 @@
 A curated list of awesome machine learning frameworks, libraries, courses, books and many more.  
 Star and Fork our repository for latest update.
 
+kumpulan sumber ini untuk mempermudah untuk mempelajari machine learning, dengan bahasa indonesia yang mudah dipahami, selain itu juga terdapat dataset yang bisa dipraktekan dan ada conference yang bisa dipublish bagi yang melakukan penelitian dibidang ini.
+
 ## Table of Contents
 * **[Free Books](#free-books)**
 
@@ -62,12 +64,14 @@ Star and Fork our repository for latest update.
 3. [Introducing Data Science](https://www.manning.com/books/introducing-data-science)
 4. [Machine Learning with R](https://github.com/dataspelunking/MLwR)
 5. [Practical Data Science Cookbook](https://github.com/PacktPublishing/Practical-Data-Science-Cookbook-Second-Edition)
-
+6. [Data Science with Python (Bahasa Indonesia)](https://github.com/rubiagatra/data-science-with-python)
+7. [Deep Learning with PyTorch (Bahasa Indonesia)](https://github.com/rubiagatra/deep-learning-with-pytorch)
+ 
 ### Datasets
 1. [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
 2. [Kaggle Datasets](https://www.kaggle.com/datasets)
 3. [IMDb Datasets](https://www.imdb.com/interfaces/)
-4. [Machine Learning Datasets Repository](http://mldata.org/)
+4. [Machine Learning Datasets Repository](http://mldata.org/) 
 5. [Caption Contest Data](https://github.com/nextml/caption-contest-data)
 
 ### Conferences (Mostly in Indonesia)
@@ -85,4 +89,7 @@ Star and Fork our repository for latest update.
 5. [CNTK](https://github.com/Microsoft/CNTK)
 
 ## Contributing
-Jika anda ingin berkontribusi dalam github ini, sangat disarankan untuk `Pull Request` namun dengan resource berbahasa indonesia.
+Jika ingin berkontribusi dalam github ini, sangat disarankan untuk `Pull Request` namun dengan resource berbahasa indonesia.
+
+## Frequently Ask Question (FAQ)
+FAQ menjawab pertanyaan pertanyaan umum terkait repository ini mulai dari _naming convention_, pertanyaan dasar hingga pertanyaan lanjut.
