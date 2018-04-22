@@ -9,17 +9,17 @@ Star and Fork our repository for latest update.
 
 * **[Videos and Lectures](#videos-and-lecturers)**
 
-* **[Papers](papers)**
+* **[Papers](#papers)**
 
-* **[Tutorials](tutorials)**
+* **[Tutorials](#tutorials)**
 
-* **[Sample Code](sample-code)**
+* **[Sample Code](#sample-code)**
 
-* **[Datasets](datasets)**
+* **[Datasets](#datasets)**
 
-* **[Conferences](conferences)**
+* **[Conferences](#conferences)**
 
-* **[Libraries](libraries)**
+* **[Libraries](#libraries)**
 
 ### Free Books
 1. [Python Data Science Handbook - Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
