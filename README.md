@@ -66,6 +66,7 @@ kumpulan sumber ini untuk mempermudah untuk mempelajari machine learning, dengan
 5. [Practical Data Science Cookbook](https://github.com/PacktPublishing/Practical-Data-Science-Cookbook-Second-Edition)
 6. [Data Science with Python (Bahasa Indonesia)](https://github.com/rubiagatra/data-science-with-python)
 7. [Deep Learning with PyTorch (Bahasa Indonesia)](https://github.com/rubiagatra/deep-learning-with-pytorch)
+8. [POS TAGGING Bahasa Indonesia with NLTK](https://github.com/mrrizal/POS_Tag_Indonesian)
  
 ### Datasets
 1. [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
@@ -73,6 +74,7 @@ kumpulan sumber ini untuk mempermudah untuk mempelajari machine learning, dengan
 3. [IMDb Datasets](https://www.imdb.com/interfaces/)
 4. [Machine Learning Datasets Repository](http://mldata.org/) 
 5. [Caption Contest Data](https://github.com/nextml/caption-contest-data)
+6. [POS TAGGING Bahasa Indonesia](https://github.com/famrashel/idn-tagged-corpus)
 
 ### Conferences (Mostly in Indonesia)
 1. [Seminar Nasional Sistem Informasi](http://sesindo.org/)
