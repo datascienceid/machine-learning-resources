@@ -24,18 +24,18 @@ kumpulan sumber ini untuk mempermudah untuk mempelajari machine learning, dengan
 * **[Libraries](#libraries)**
 
 ### Free Books
-1. [Python Data Science Handbook - Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
-2. [Pengenalan Pembelajaran Mesin dan Deep Learning (Bahasa Indonesia) - I Gede Mahendra Darmawiguna](https://wiragotama.github.io/ebook_machine_learning.html)
-3. [Bayesian Reasoning and Machine Learning - David Barber](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Online)
-4. [R Programming for Data Science - Roger D. Peng](https://leanpub.com/rprogramming)
-5. [Think Bayes](http://greenteapress.com/wp/think-bayes/)
+1. [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/), by Jake VanderPlas
+2. [Pengenalan Pembelajaran Mesin dan Deep Learning (Bahasa Indonesia)](https://wiragotama.github.io/ebook_machine_learning.html), by I Gede Mahendra Darmawiguna
+3. [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Online), by David Barber
+4. [R Programming for Data Science](https://leanpub.com/rprogramming), by Roger D. Peng
+5. [Think Bayes](http://greenteapress.com/wp/think-bayes/) by Allen B. Downey
 
 ### Courses
-1. [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning/home/welcome)
-2. [Machine Learning](https://www.coursera.org/learn/machine-learning)
-3. [Machine Learning with Big Data](https://www.coursera.org/learn/big-data-machine-learning)
-4. [Applied Machine Learning](https://courses.edx.org/courses/course-v1:Microsoft+DAT203.3x+2T2017/course/)
-5. [Machine Learning for Data Science and Analytics](https://www.edx.org/course/machine-learning-data-science-analytics-columbiax-ds102x-1)
+1. [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning) by University of Michigan
+2. [Machine Learning](https://www.coursera.org/learn/machine-learning) by Stanford University
+3. [Machine Learning with Big Data](https://www.coursera.org/learn/big-data-machine-learning) by University of California, San Diego
+4. [Principles of Machine Learning](https://www.edx.org/course/principles-of-machine-learning) by Microsoft
+5. [Machine Learning for Data Science and Analytics](https://www.edx.org/course/machine-learning-data-science-analytics-columbiax-ds102x-1) by Columbia University in The City of New York
 
 ### Videos and Lectures
 1. [Machine Learning by Andrew Ng](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=RDQMwjiIGVB03Eg)
