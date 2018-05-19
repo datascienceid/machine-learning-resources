@@ -63,8 +63,8 @@ Star and Fork our repository for latest update.
 4. [Machine Learning with R](https://github.com/dataspelunking/MLwR)
 5. [Practical Data Science Cookbook](https://github.com/PacktPublishing/Practical-Data-Science-Cookbook-Second-Edition)
 6. [crawling instagram using instalooter](https://medium.com/@adamaulia/crawling-instagram-using-instalooter-2791edb453ff)
-6. [object tracking using opencv] (https://medium.com/@adamaulia/object-tracking-using-opencv-python-windows-616fb23da720)
-7. [news crawling use case : kompas.com] (https://medium.com/@adamaulia/python-simple-crawling-using-beautifulsoup-8247657c2de5) 
+6. [object tracking using opencv](https://medium.com/@adamaulia/object-tracking-using-opencv-python-windows-616fb23da720)
+7. [news crawling use case : kompas.com](https://medium.com/@adamaulia/python-simple-crawling-using-beautifulsoup-8247657c2de5) 
 
 ### Datasets
 1. [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
