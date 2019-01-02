@@ -80,6 +80,7 @@ kumpulan sumber ini untuk mempermudah untuk mempelajari machine learning, dengan
 3. [International Conference on Advanced Computer Science and Information Systems](http://icacsis.cs.ui.ac.id/front/)
 4. [International Conference on Science in Information Technology ](http://icsitech.org/)
 5. [International Conference on Soft Computing, Intelligent Systems, and Information Technology](http://icsiit.petra.ac.id/)
+6. [International Conference on Data and Information Science](http://icodis.org/)
 
 ### Libraries
 1. [Scikit-learn](http://scikit-learn.org/)
