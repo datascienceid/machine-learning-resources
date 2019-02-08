@@ -73,6 +73,7 @@ kumpulan sumber ini untuk mempermudah untuk mempelajari machine learning, dengan
 3. [IMDb Datasets](https://www.imdb.com/interfaces/)
 4. [Machine Learning Datasets Repository](http://mldata.org/) 
 5. [Caption Contest Data](https://github.com/nextml/caption-contest-data)
+6. [Indonesia Family Life Survey](https://www.rand.org/well-being/social-and-behavioral-policy/data/FLS/IFLS.html)
 
 ### Conferences (Mostly in Indonesia)
 1. [Seminar Nasional Sistem Informasi](http://sesindo.org/)
