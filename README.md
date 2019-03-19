@@ -30,6 +30,7 @@ kumpulan sumber ini untuk mempermudah untuk mempelajari machine learning, dengan
 4. [R Programming for Data Science](https://leanpub.com/rprogramming), by Roger D. Peng
 5. [Think Bayes](http://greenteapress.com/wp/think-bayes/) by Allen B. Downey
 6. [Mathematics for Machine Learning](https://mml-book.github.io/) by Marc Peter
+7. [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by Christoph Molnar
 
 ### Courses
 1. [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning) by University of Michigan
