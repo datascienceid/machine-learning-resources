@@ -25,7 +25,7 @@ kumpulan sumber ini untuk mempermudah untuk mempelajari machine learning, dengan
 
 ### Free Books
 1. [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/), by Jake VanderPlas
-2. [Pengenalan Pembelajaran Mesin dan Deep Learning (Bahasa Indonesia)](https://wiragotama.github.io/ebook_machine_learning.html), by I Gede Mahendra Darmawiguna
+2. [Pengenalan Pembelajaran Mesin dan Deep Learning (Bahasa Indonesia)](https://wiragotama.github.io/ebook_machine_learning.html), by Jan Wira Gotama Putra
 3. [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Online), by David Barber
 4. [R Programming for Data Science](https://leanpub.com/rprogramming), by Roger D. Peng
 5. [Think Bayes](http://greenteapress.com/wp/think-bayes/) by Allen B. Downey
