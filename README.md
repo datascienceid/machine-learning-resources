@@ -2,7 +2,7 @@
 A curated list of awesome machine learning frameworks, libraries, courses, books and many more.  
 Star and Fork our repository for latest update.
 
-kumpulan sumber ini untuk mempermudah untuk mempelajari machine learning, dengan bahasa indonesia yang mudah dipahami, selain itu juga terdapat dataset yang bisa dipraktekan dan ada conference yang bisa dipublish bagi yang melakukan penelitian dibidang ini.
+Kumpulan sumber ini untuk mempermudah untuk mempelajari machine learning, dengan bahasa indonesia yang mudah dipahami. Selain itu juga terdapat dataset yang bisa dipraktikkan dan ada konferensi untuk publikasi bagi yang melakukan penelitian di bidang ini.
 
 ## Table of Contents
 * **[Free Books](#free-books)**
@@ -24,13 +24,14 @@ kumpulan sumber ini untuk mempermudah untuk mempelajari machine learning, dengan
 * **[Libraries](#libraries)**
 
 ### Free Books
-1. [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/), by Jake VanderPlas
-2. [Pengenalan Pembelajaran Mesin dan Deep Learning (Bahasa Indonesia)](https://wiragotama.github.io/ebook_machine_learning.html), by Jan Wira Gotama Putra
-3. [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Online), by David Barber
-4. [R Programming for Data Science](https://leanpub.com/rprogramming), by Roger D. Peng
-5. [Think Bayes](http://greenteapress.com/wp/think-bayes/) by Allen B. Downey
-6. [Mathematics for Machine Learning](https://mml-book.github.io/) by Marc Peter
-7. [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by Christoph Molnar
+1. [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
+2. [Pengenalan Pembelajaran Mesin dan Deep Learning (Bahasa Indonesia)](https://wiragotama.github.io/ebook_machine_learning.html) by Jan Wira Gotama Putra
+3. [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Online) by David Barber
+4. [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) by Christopher Bishop
+5. [R Programming for Data Science](https://leanpub.com/rprogramming) by Roger D. Peng
+6. [Think Bayes](http://greenteapress.com/wp/think-bayes/) by Allen B. Downey
+7. [Mathematics for Machine Learning](https://mml-book.github.io/) by Marc P. Deisenroth, Aldo Faisal, & Cheng Soon Ong
+8. [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by Christoph Molnar
 
 ### Courses
 1. [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning) by University of Michigan
@@ -48,6 +49,8 @@ kumpulan sumber ini untuk mempermudah untuk mempelajari machine learning, dengan
 5. [Gaussian Mixture Models - The Math of Intelligence (Week 7)](https://www.youtube.com/watch?v=JNlEIEwe-Cg&t=945s)
 6. [Machine Learning and Data Mining Short Series for Beginner (UC Irvine)](https://www.youtube.com/watch?v=qPhMX0vb6D8&list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw)
 7. [Complete Tutorial of Apache Spark (Beginner - Intermediate)](https://www.youtube.com/watch?v=VAE0wEaYXHs&list=PLkRkKTC6HZMxAPWIqXp2bnQI_UFd0YsbC)
+8. [Introductory Applied Machine Learning](https://www.youtube.com/user/victorlavrenko/playlists?view=50&sort=dd&shelf_id=10)
+9. [Pengenalan Pola](https://www.youtube.com/watch?v=ADS1Fv729m4&list=PLvLX5-kC2DXYfMku2UZEVuJE3rsKu6n_1&index=2&t=0s)
 
 ### Papers
 1. [Local algorithms for interactive clustering](http://jmlr.org/papers/volume18/15-085/15-085.pdf)
