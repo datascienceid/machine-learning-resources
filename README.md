@@ -96,6 +96,8 @@ kumpulan sumber ini untuk mempermudah untuk mempelajari machine learning, dengan
 3. [XGBoost](https://github.com/dmlc/xgboost)
 4. [spaCy](https://github.com/explosion/spaCy)
 5. [CNTK](https://github.com/Microsoft/CNTK)
+6. [PyTorch](https://pytorch.org/)
+7. [Tensorflow](https://www.tensorflow.org/)
 
 ## Contributing
 Jika ingin berkontribusi dalam github ini, sangat disarankan untuk `Pull Request` namun dengan resource berbahasa indonesia.
