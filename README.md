@@ -39,6 +39,7 @@ kumpulan sumber ini untuk mempermudah untuk mempelajari machine learning, dengan
 4. [Principles of Machine Learning](https://www.edx.org/course/principles-of-machine-learning) by Microsoft
 5. [Machine Learning for Data Science and Analytics](https://www.edx.org/course/machine-learning-data-science-analytics-columbiax-ds102x-1) by Columbia University in The City of New York
 6. [Practical Deep Learning for Coders](https://course.fast.ai/) by Fast AI
+7. [Machine Learning Course](https://www.sololearn.com/Course/machine-learning/) by SoloLearn
 
 ### Videos and Lectures
 1. [Machine Learning by Andrew Ng](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=RDQMwjiIGVB03Eg)
