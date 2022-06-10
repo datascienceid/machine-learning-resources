@@ -31,6 +31,7 @@ kumpulan sumber ini untuk mempermudah untuk mempelajari machine learning, dengan
 5. [Think Bayes](http://greenteapress.com/wp/think-bayes/) by Allen B. Downey
 6. [Mathematics for Machine Learning](https://mml-book.github.io/) by Marc Peter
 7. [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) by Christoph Molnar
+8. [Add list of free Machine Learning courses](https://skillcombo.com/topic/machine-learning/free/) 
 
 ### Courses
 1. [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning) by University of Michigan
