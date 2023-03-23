@@ -48,6 +48,7 @@ kumpulan sumber ini untuk mempermudah untuk mempelajari machine learning, dengan
 5. [Gaussian Mixture Models - The Math of Intelligence (Week 7)](https://www.youtube.com/watch?v=JNlEIEwe-Cg&t=945s)
 6. [Machine Learning and Data Mining Short Series for Beginner (UC Irvine)](https://www.youtube.com/watch?v=qPhMX0vb6D8&list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw)
 7. [Complete Tutorial of Apache Spark (Beginner - Intermediate)](https://www.youtube.com/watch?v=VAE0wEaYXHs&list=PLkRkKTC6HZMxAPWIqXp2bnQI_UFd0YsbC)
+8. [Great Way Familiar with Machine Learning - Google](https://m.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 
 ### Papers
 1. [Local algorithms for interactive clustering](http://jmlr.org/papers/volume18/15-085/15-085.pdf)
